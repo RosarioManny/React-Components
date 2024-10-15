@@ -1,7 +1,7 @@
-// src/App.jsx
+import { weatherForecasts } from "../WeatherForecast";
 
 const App = () => {
-
+  
   return (
     <h1>Hello world!</h1>
   );
